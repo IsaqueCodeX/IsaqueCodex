@@ -1,12 +1,13 @@
 # Isaque Santos (IsaqueCodeX)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de IsaqueCodeX" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCodeX&layout=compact&langs_count=10&theme=vision-friendly-dark" alt="Linguagens Mais Usadas por IsaqueCodeX" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de IsaqueCodeX" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCodeX&layout=compact&langs_count=10&theme=vision-friendly-dark" alt="Linguagens Mais Usadas por IsaqueCodeX" height="180" align="left" />
 </p>
+
 ---
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia, desenvolvimento web & mobile e Inteligência Artificial. Estou sempre em busca de novos desafios e aprendizados para me tornar um desenvolvedor Full-Stack e contribuir para projetos inovadores! Além dos meus projetos de desenvolvimento, também crio conteúdo para o meu canal no YouTube ([Clube Do Infinito](http://googleusercontent.com/youtube.com/channel/UCtAGvlX6XdUYgx3dz7phKBQ)), onde exploro o uso de IA e edito vídeos utilizando CapCut e Canva.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia, desenvolvimento web & mobile e Inteligência Artificial. Estou sempre em busca de novos desafios e aprendizados para me tornar um desenvolvedor Full-Stack e contribuir para projetos inovadores! Além dos meus projetos de desenvolvimento, também crio conteúdo para o meu canal no YouTube ([Clube Do Infinito](http://googleusercontent.com/youtube.com/channel/UCtAGvlX6XdUYgx3dz7phKBQ)), onde exploro o uso de IA e edito vídeos utilizando CapCut e Canva.
 
 ---
 
