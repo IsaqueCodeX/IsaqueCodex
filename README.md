@@ -1,8 +1,8 @@
 # Isaque Santos (IsaqueCodeX)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de IsaqueCodeX" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCodeX&layout=compact&langs_count=10&theme=vision-friendly-dark" alt="Linguagens Mais Usadas por IsaqueCodeX" height="180" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de IsaqueCodeX" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCodeX&layout=compact&langs_count=10&theme=vision-friendly-dark&locale=pt-br" alt="Linguagens Mais Usadas por IsaqueCodeX" height="180" align="left" />
 </p>
 
 ---
