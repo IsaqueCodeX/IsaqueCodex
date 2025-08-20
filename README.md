@@ -94,6 +94,7 @@ Fora do código, sou o criador por trás do **[@clubedoinfinito](https://youtube
 -   🎓 **Análise e Desenvolvimento de Sistemas** - [UNIASSELVI](https://uniasselvi.com.br/) (Cursando - 4º semestre)
 
 -   🚀 **Imersões Alura:**
+    -   Imersão Dados com Python
     -   Imersão Cloud Devops
     -   Imersão IA 3ª Edição
     -   Imersão Dev 9ª Edição
