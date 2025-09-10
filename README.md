@@ -23,7 +23,7 @@ Além do código, sou o criador do **[@clubedoinfinito](https://youtube.com/@clu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,php,python,flask,mysql,postgresql,docker,n8n,git,github,vscode,figma,canva&perline=8" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,php,python,flask,n8n,postgresql,docker,git,github,vscode,figma,canva&perline=8" />
   </a>
 </p>
 
