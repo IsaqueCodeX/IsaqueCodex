@@ -14,6 +14,8 @@
 ###  Sobre Mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas (4º semestre)** em transição de carreira, com o objetivo de me tornar um **Desenvolvedor Full-Stack**. Meu foco é construir aplicações completas e intuitivas, unindo lógica de programação, arquitetura de software e a inovação da **Inteligência Artificial**.
+Confira meu Portifolio 👉 **https://isaque-santos-portfolio.vercel.app/**
+
 
 Além do código, sou o criador do **[@clubedoinfinito](https://youtube.com/@clubedoinfinito?si=zmaYlDlwQckG57pz)**, um canal de curiosidades científicas. Este projeto é meu laboratório criativo, onde desenvolvo habilidades de **roteirização, design (Canva), edição (CapCut) e uso de IAs generativas**, aprimorando minha capacidade de comunicar ideias complexas de forma clara e engajante.
 
