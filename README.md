@@ -61,6 +61,8 @@ Além do código, sou o criador do **[@clubedoinfinito](https://youtube.com/@clu
 
 ---
 
+---
+
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
@@ -75,6 +77,8 @@ Além do código, sou o criador do **[@clubedoinfinito](https://youtube.com/@clu
     </tr>
   </table>
 </p>
+
+---
 
 ---
 
