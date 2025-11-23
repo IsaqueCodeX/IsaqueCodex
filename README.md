@@ -17,14 +17,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (4º semestre)** e est
 
 Meu foco atual está em:
 
-- Construção de interfaces modernas e responsivas  
-- Desenvolvimento de APIs e aplicações completas  
-- Integração de projetos com **Inteligência Artificial**  
-- Boas práticas de arquitetura, versionamento e documentação  
+- Construir interfaces modernas e responsivas  
+- Desenvolver APIs e aplicações completas  
+- Explorar e aplicar **Inteligência Artificial** em projetos reais  
+- Manter boas práticas de arquitetura, versionamento e documentação  
 
-Portfólio completo: 👉 **https://isaque-santos-portfolio.vercel.app/**  
+Confira meu portfólio 👉 **https://isaque-santos-dev.vercel.app/**  
 
-Além da tecnologia, sou criador do canal **[@clubedoinfinito](https://youtube.com/@clubedoinfinito)**, onde produzo conteúdo de ciência e curiosidades. Esse projeto me ajuda a aprimorar habilidades de **edição, storytelling e design**, agregando criatividade ao meu trabalho como dev.
+Além da programação, sou criador do canal **[@clubedoinfinito](https://youtube.com/@clubedoinfinito)**. Lá, produzo conteúdo científico que me ajuda a desenvolver habilidades de **roteirização, design gráfico e uso de IAs generativas**, combinando criatividade com tecnologia.
 
 ---
 
@@ -61,7 +61,7 @@ Além da tecnologia, sou criador do canal **[@clubedoinfinito](https://youtube.c
   <img src="https://img.shields.io/badge/n8n-FF621F?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-### **Design & Conteúdo**
+### **Design & Criação de Conteúdo**
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -74,14 +74,14 @@ Além da tecnologia, sou criador do canal **[@clubedoinfinito](https://youtube.c
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **[Planejador de Refeições Inteligente](https://github.com/IsaqueCodeX/planejador-refeicoes-inteligente)** | Gera planos de refeições e lista de compras usando IA (Gemini API). | Python • Flask • Gemini API • JavaScript |
-| **[Gerador de QR Code Profissional](https://github.com/IsaqueCodeX/Gerador-de-QR-Code-Profissional)** | Criação de QR Codes personalizados com tema, logo e exportação. | JavaScript • HTML • CSS |
-| **[Jokenpô – Batalha Épica](https://github.com/IsaqueCodeX/jokenpo-batalha-epica)** | Versão moderna do Jokenpô com animações e placar. | JavaScript • HTML • CSS |
+|---|---|---|
+| **[Planejador de Refeições Inteligente](https://github.com/IsaqueCodeX/planejador-refeicoes-inteligente)** | Aplicação web para gerar planos de refeições + lista de compras usando a API Gemini. | Python • Flask • Gemini API • JavaScript |
+| **[Gerador de QR Code Profissional](https://github.com/IsaqueCodeX/Gerador-de-QR-Code-Profissional)** | Criação de QR Codes customizáveis (cores, logo, tipo) + exportação PNG/SVG. | JavaScript • HTML • CSS |
+| **[Jokenpô – Batalha Épica](https://github.com/IsaqueCodeX/jokenpo-batalha-epica)** | Jogo moderno de Jokenpô com animações, interface interativa e placar. | JavaScript • HTML • CSS |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas no GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=pt-br"/>
@@ -90,11 +90,11 @@ Além da tecnologia, sou criador do canal **[@clubedoinfinito](https://youtube.c
 
 ---
 
-## 🎓 Formação e Estudos
+## 🎓 Formação & Estudos
 
-- **ADS – UNIASSELVI** (4º semestre)
-- Imersões Alura: Cloud DevOps, IA, Dev, Front-End, Dados com Python
-- Formação Front-End – Udemy (React, JS, HTML, CSS)
+- **Análise e Desenvolvimento de Sistemas**, UNIASSELVI — 4º semestre  
+- Imersões Alura: Cloud DevOps, IA, Desenvolvimento, Front-End, Dados com Python  
+- Formação Front-End Completa (React, JS, HTML, CSS) – Udemy
 
 ---
 
