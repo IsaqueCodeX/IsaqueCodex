@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (4º semestre)** e estou construindo minha carreira para atuar como **Desenvolvedor Full-Stack**.
 
@@ -28,7 +28,7 @@ Além da programação, sou criador do canal **[@clubedoinfinito](https://youtub
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### **Front-end**
 <p>
@@ -71,7 +71,7 @@ Além da programação, sou criador do canal **[@clubedoinfinito](https://youtub
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -81,7 +81,7 @@ Além da programação, sou criador do canal **[@clubedoinfinito](https://youtub
 
 ---
 
-## 📊 Estatísticas no GitHub
+##  Estatísticas no GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=pt-br"/>
@@ -90,7 +90,7 @@ Além da programação, sou criador do canal **[@clubedoinfinito](https://youtub
 
 ---
 
-## 🎓 Formação & Estudos
+##  Formação & Estudos
 
 - **Análise e Desenvolvimento de Sistemas**, UNIASSELVI — 4º semestre  
 - Imersões Alura: Cloud DevOps, IA, Desenvolvimento, Front-End, Dados com Python  
@@ -100,5 +100,5 @@ Além da programação, sou criador do canal **[@clubedoinfinito](https://youtub
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/IsaqueCodeX/IsaqueCodeX/main/dist/github-snake-dark.svg" alt="snake animation"/>
-  <p><strong>Obrigado por visitar meu perfil! 🚀</strong></p>
+  <p><strong>Obrigado por visitar meu perfil! </strong></p>
 </div>
