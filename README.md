@@ -93,11 +93,15 @@ Tenho interesse em oportunidades como **Desenvolvedor Júnior / Estagiário em D
 
 ---
 
-## Estatísticas no GitHub
+## Estatísticas de Desenvolvimento
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaqueCodeX&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCodeX&layout=compact&theme=vision-friendly-dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueCodeX&theme=dracula" alt="Resumo do Perfil" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaqueCodeX&theme=dracula" alt="Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaqueCodeX&theme=dracula" alt="Linguagens mais commitadas" />
 </p>
 
 ---
