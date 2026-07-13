@@ -6,8 +6,8 @@
     <a href="https://www.linkedin.com/in/isaque-santos-720b8b15a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:isaque.v.l@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="https://bio.isaquesantosdev.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Bio_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://isaquesantosdev.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -74,6 +74,7 @@ Atualmente, concentro meus esforços no ecossistema JavaScript/TypeScript, const
 
 ## Links e Portfólios
 
+- **Página de Links (Bio):** [bio.isaquesantosdev.com](https://bio.isaquesantosdev.com/)
 - **Site Principal:** [isaquesantosdev.com](https://isaquesantosdev.com/)
 - **Criando Sites:** [criandosites.shop](https://criandosites.shop/)
 - **Portfólio Alternativo:** [isaque-santos-dev.vercel.app](https://isaque-santos-dev.vercel.app/)
